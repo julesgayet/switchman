@@ -1,0 +1,13 @@
+{
+  "name": "switchman",
+  "version": "1.0.0",
+  "description": "Routes a task to the installed skills that fit it, loads only those, then does the task.",
+  "author": {
+    "name": "Jules Gayet",
+    "url": "https://github.com/julesgayet"
+  },
+  "homepage": "https://github.com/julesgayet/switchman",
+  "repository": "https://github.com/julesgayet/switchman",
+  "license": "MIT",
+  "keywords": ["skills", "routing", "tokens"]
+}

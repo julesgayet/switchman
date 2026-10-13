@@ -1,0 +1,15 @@
+{
+  "name": "switchman",
+  "description": "switchman: pick the right skills before a task, load only those.",
+  "owner": {
+    "name": "Jules Gayet",
+    "url": "https://github.com/julesgayet"
+  },
+  "plugins": [
+    {
+      "name": "switchman",
+      "source": "./",
+      "description": "Routes a task to the installed skills that fit it, loads only those, then does the task."
+    }
+  ]
+}
